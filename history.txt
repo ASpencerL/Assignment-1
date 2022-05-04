@@ -1,0 +1,110 @@
+    1  whoami
+    2  W
+    3  w
+    4  pwd
+    5  cd
+    6  cd ~fhorrbin/
+    7  ls
+    8  cd ~murray
+    9  cd ~Papers
+   10  cd ~murray
+   11  ls
+   12  cd murray/Papers/Hopkins/All_Feedback/second_draft
+   13  ls-la
+   14  ls -la
+   15  cd Papers/Hopkins/All_Feedback/second_draft
+   16  ls -la
+   17  evince wind_vs_fbmodel.pdf
+   18  evince sfh_vs_fbmodel.pdf
+   19  evince sfh_vs_fbmodel.pdf 
+   20  history
+   21  whoami
+   22  pwd
+   23  cd
+   24  pwd
+   25  ls -la
+   26  mkdir CTA200_2022
+   27  ls -la
+   28  cd CTA200_2022/
+   29  dir
+   30  ls -la
+   31  which vi
+   32  vim list_dir
+   33  emacs
+   34  module avail
+   35  module load gcc
+   36  gcc --version
+   37  module load python
+   38  module list
+   39  cd /mnt
+   40  ls -la
+   41  cd scratch-lustre/
+   42  ls-la
+   43  ls -la
+   44  cd student03/
+   45  pwd
+   46  cd ..
+   47  mkdir CTA200_2022
+   48  pwd
+   49  history
+   50  ls
+   51  ls -l
+   52  pwd
+   53  history
+   54  cd /mnt/scratch-lustre/student03
+   55  pwd
+   56  mkdir CTA200_2022
+   57  pwd
+   58  cd /mnt/scratch-lustre/student03/CTA200_2022
+   59  pwd
+   60  mkdir assignment_1
+   61  history
+   62  cd /mnt/scratch-lustre/student03/CTA200_2022/assignment1
+   63  cd /mnt/scratch-lustre/student03/CTA200_2022/assignment_1
+   64  pwd
+   65  vim README.md
+   66  history
+   67  vim README.md
+   68  pwd
+   69  history
+   70  cd ~murray
+   71  pwd
+   72  find -name Hello_world.c
+   73  pwd
+   74  find . -name Hello_world.c
+   75  grep Hello .
+   76  find Hello .
+   77  find Hello_world .
+   78  grep -inr "Hello_world" .
+   79  find . -name Hello_world
+   80  find . -name Hello_world 2>/dev/null
+   81  find . -name "Hello_world" 2>/dev/null
+   82  find . -name "Hello_world*" 2>/dev/null
+   83  cp ./tmp/Hello_world.py /mnt/scratch-lustre/student03
+   84  cp ./tmp/Hello_world.c /mnt/scratch-lustre/student03
+   85  cp ./Papers/tmp/Hello_world.c /mnt/scratch-lustre/student03
+   86  cp ./Papers/tmp/Hello_world.c /mnt/scratch-lustre/student03/CTA200_2022/assignment_1
+   87  cp ./tmp/Hello_world.py /mnt/scratch-lustre/student03/CTA200_2022/assignment_1
+   88  cd /mnt/scratch-lustre/student03/CTA200_2022/assignment_1
+   89  pwd
+   90  ls
+   91  mv Hello_world.c Hello_world_spencer_london.c
+   92  mv Hello_world.py Hello_world_spencer_london.py
+   93  gcc Hello_world_spencer_london.c
+   94  ls
+   95  ls -l a.out
+   96  a.out
+   97  ./a.out
+   98  python Hello_world_spencer_london.py
+   99  vi Hello_world_spencer_london.c
+  100  vi Hello_world_spencer_london.py
+  101  python Hello_world_spencer_london.py
+  102  mv a.out Hello_world.x
+  103  ./Hello_world.x
+  104  gcc Hello_world_spencer_london.c
+  105  ./a.out
+  106  ./a.out > output_c.txt
+  107  vi output_c.txt
+  108  python Hello_world_spencer_london.py > output_python.txt
+  109  vi output_python.txt
+  110  history > history.txt
